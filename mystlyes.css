@@ -1,0 +1,98 @@
+body{background-color: #F2F5FF;
+
+}
+
+
+
+#GET {
+    display: flex;
+    color: black;
+    background-color: white;
+    border-width: 12px;
+    border-color: red;
+    border-style: groove;
+    font-size: 40px;
+    font-weight: 100;
+    font-family: serif;
+    text-align: center;
+    width: fit-content;
+    justify-content: center;
+}
+
+.TOM {
+    background-color: green;
+    font-size: 40px;
+    width: 450px;
+    height: 180px;
+    border: 2px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 9px 2px 15px ;
+}
+
+#Container6 {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 50px;
+    height: 30vh;  
+}
+
+#container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: green;
+    font-size: 50px;
+    max-width: 30%;
+    width: 40%;
+    text-align: center;
+    width: fit-content;
+}
+
+#container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+img {
+    width: 750px;
+    height: auto;
+}
+
+#container3 {
+    display: block;
+    margin-top: 20px;
+    font-size: 50px;
+    color: green;
+    justify-content: center;
+    text-align: center;
+}
+
+#container4 {
+    display: block;
+    margin: 20px auto;
+    font-size: 25px;
+    max-width: 50%;
+    color: black;
+    text-align: center;
+}
+
+#container7 {
+    display: block;
+    margin: 20px auto;
+    font-size: 25px;
+    max-width: 50%;
+    color: black;
+    text-align: left;
+    height: 69vh;
+
+}
